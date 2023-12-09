@@ -1,4 +1,4 @@
-![Banner Image](/images/Modern%20Minimal%20Technology%20Background%20Banner.png)
+![Banner Image](https://i.ibb.co/jR4VQHW/Modern-Minimal-Technology-Background-Banner.png)
 <div align="center">
 
 # 👋 Hello, I'm Faisal Osman!
