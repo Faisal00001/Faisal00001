@@ -47,7 +47,7 @@ pt, Tailwind
 CSS, HTML, CSS, Exp
 ress JS, MongoDB
 - Live Link: [CollabCare](https://leafy-truffle-b24028.netlify.app/)
-### 📌 Project 3: [LearnOra](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-Faisal00001)
+### 📌 Project 3: [LearnOra](https://github.com/Faisal00001/LearnOra/tree/master)
 - A LearnOra is an E-Learning
 Platform to automate the current manual
 framework with the help of computerized
